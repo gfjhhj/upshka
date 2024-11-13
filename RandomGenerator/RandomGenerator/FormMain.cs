@@ -19,7 +19,8 @@ namespace RandomGenerator
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            NumberGenerator numberGenerator = new NumberGenerator();
+            numberGenerator.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
