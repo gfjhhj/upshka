@@ -1,0 +1,22 @@
+C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.exe.config
+C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.exe
+C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.pdb
+C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csproj.AssemblyReference.cache
+C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.FormMain.resources
+C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.FormWordGenerator.resources
+C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.Properties.Resources.resources
+C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csproj.GenerateResource.cache
+C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csproj.CoreCompileInputs.cache
+C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.exe
+C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.pdb
+C:\Users\zabko\Desktop\pflfybt\upkuku\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.exe.config
+C:\Users\zabko\Desktop\pflfybt\upkuku\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.exe
+C:\Users\zabko\Desktop\pflfybt\upkuku\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.pdb
+C:\Users\zabko\Desktop\pflfybt\upkuku\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csproj.AssemblyReference.cache
+C:\Users\zabko\Desktop\pflfybt\upkuku\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.FormMain.resources
+C:\Users\zabko\Desktop\pflfybt\upkuku\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.FormWordGenerator.resources
+C:\Users\zabko\Desktop\pflfybt\upkuku\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.Properties.Resources.resources
+C:\Users\zabko\Desktop\pflfybt\upkuku\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csproj.GenerateResource.cache
+C:\Users\zabko\Desktop\pflfybt\upkuku\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csproj.CoreCompileInputs.cache
+C:\Users\zabko\Desktop\pflfybt\upkuku\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.exe
+C:\Users\zabko\Desktop\pflfybt\upkuku\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.pdb

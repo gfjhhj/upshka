@@ -10,11 +10,22 @@ using System.Windows.Forms;
 
 namespace RandomGenerator
 {
-    public partial class Form1 : Form
+    public partial class FormMain : Form
     {
-        public Form1()
+        public FormMain()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FormWordGenerator form = new FormWordGenerator();
+            form.Show();
         }
     }
 }

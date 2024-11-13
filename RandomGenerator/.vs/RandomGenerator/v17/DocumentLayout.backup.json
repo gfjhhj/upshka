@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\zabko\\Desktop\\pflfybt\\upkuku\\RandomGenerator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|C:\\Users\\zabko\\Desktop\\pflfybt\\upkuku\\RandomGenerator\\randomgenerator\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|solutionrelative:randomgenerator\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|c:\\users\\zabko\\desktop\\pflfybt\\upkuku\\randomgenerator\\randomgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|solutionrelative:randomgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|c:\\users\\zabko\\desktop\\pflfybt\\upkuku\\randomgenerator\\randomgenerator\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|solutionrelative:randomgenerator\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|c:\\users\\zabko\\desktop\\pflfybt\\upkuku\\randomgenerator\\randomgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|solutionrelative:randomgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|C:\\Users\\zabko\\Desktop\\pflfybt\\upkuku\\RandomGenerator\\randomgenerator\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|solutionrelative:randomgenerator\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|C:\\Users\\zabko\\Desktop\\pflfybt\\upkuku\\RandomGenerator\\randomgenerator\\formwordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,20 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zabko\\Desktop\\pflfybt\\upkuku\\RandomGenerator\\RandomGenerator\\Program.cs",
               "RelativeDocumentMoniker": "RandomGenerator\\Program.cs",
               "ToolTip": "C:\\Users\\zabko\\Desktop\\pflfybt\\upkuku\\RandomGenerator\\RandomGenerator\\Program.cs",
               "RelativeToolTip": "RandomGenerator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T08:12:19.438Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -72,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\zabko\\Desktop\\pflfybt\\upkuku\\RandomGenerator\\RandomGenerator\\FormMain.cs",
               "RelativeDocumentMoniker": "RandomGenerator\\FormMain.cs",
@@ -81,10 +85,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T13:33:39.256Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
