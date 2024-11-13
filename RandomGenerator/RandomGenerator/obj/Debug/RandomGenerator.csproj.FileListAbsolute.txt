@@ -9,6 +9,7 @@ C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упш�
 C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csproj.CoreCompileInputs.cache
 C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.exe
 C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.pdb
+<<<<<<< HEAD
 C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\начало\upshka\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.exe.config
 C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\начало\upshka\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.exe
 C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\начало\upshka\RandomGenerator\RandomGenerator\bin\Debug\RandomGenerator.pdb
@@ -30,3 +31,6 @@ C:\Users\User\Desktop\papka\upshka\RandomGenerator\RandomGenerator\obj\Debug\Ran
 C:\Users\User\Desktop\papka\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\papka\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.exe
 C:\Users\User\Desktop\papka\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.pdb
+=======
+>>>>>>> eden
+C:\Users\EdenwolfErdane\Desktop\Новая папка (2)\папочка упшечка\upshka\RandomGenerator\RandomGenerator\obj\Debug\RandomGenerator.NumberGenerator.resources

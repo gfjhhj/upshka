@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043D\u0430\u0447\u0430\u043B\u043E\\upshka\\RandomGenerator\\",
+  "WorkspaceRootPath": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\RandomGenerator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|c:\\users\\edenwolferdane\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043D\u0430\u0447\u0430\u043B\u043E\\upshka\\randomgenerator\\randomgenerator\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|c:\\users\\edenwolferdane\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\randomgenerator\\randomgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|solutionrelative:randomgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|c:\\users\\edenwolferdane\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\randomgenerator\\randomgenerator\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|solutionrelative:randomgenerator\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|c:\\users\\edenwolferdane\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043D\u0430\u0447\u0430\u043B\u043E\\upshka\\randomgenerator\\randomgenerator\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|solutionrelative:randomgenerator\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|c:\\users\\edenwolferdane\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\randomgenerator\\randomgenerator\\numbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|solutionrelative:randomgenerator\\numbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\RandomGenerator\\randomgenerator\\numbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6ACB6F8-3604-40DB-A00E-680ECF674731}|RandomGenerator\\RandomGenerator.csproj|solutionrelative:randomgenerator\\numbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +35,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormMain.cs",
-              "DocumentMoniker": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043D\u0430\u0447\u0430\u043B\u043E\\upshka\\RandomGenerator\\RandomGenerator\\FormMain.cs",
-              "RelativeDocumentMoniker": "RandomGenerator\\FormMain.cs",
-              "ToolTip": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043D\u0430\u0447\u0430\u043B\u043E\\upshka\\RandomGenerator\\RandomGenerator\\FormMain.cs",
-              "RelativeToolTip": "RandomGenerator\\FormMain.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAlwBoAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\RandomGenerator\\RandomGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "RandomGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\RandomGenerator\\RandomGenerator\\Program.cs",
+              "RelativeToolTip": "RandomGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:19:36.343Z",
+              "WhenOpened": "2024-11-13T16:10:02.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043D\u0430\u0447\u0430\u043B\u043E\\upshka\\RandomGenerator\\RandomGenerator\\FormMain.cs",
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\RandomGenerator\\RandomGenerator\\FormMain.cs",
               "RelativeDocumentMoniker": "RandomGenerator\\FormMain.cs",
-              "ToolTip": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043D\u0430\u0447\u0430\u043B\u043E\\upshka\\RandomGenerator\\RandomGenerator\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "RandomGenerator\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\RandomGenerator\\RandomGenerator\\FormMain.cs",
+              "RelativeToolTip": "RandomGenerator\\FormMain.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA5wBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:33:39.256Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-11-13T16:09:03.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\RandomGenerator\\RandomGenerator\\NumberGenerator.cs",
+              "RelativeDocumentMoniker": "RandomGenerator\\NumberGenerator.cs",
+              "ToolTip": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\RandomGenerator\\RandomGenerator\\NumberGenerator.cs",
+              "RelativeToolTip": "RandomGenerator\\NumberGenerator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:57:52.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberGenerator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\RandomGenerator\\RandomGenerator\\NumberGenerator.cs",
+              "RelativeDocumentMoniker": "RandomGenerator\\NumberGenerator.cs",
+              "ToolTip": "C:\\Users\\EdenwolfErdane\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\\u043F\u0430\u043F\u043E\u0447\u043A\u0430 \u0443\u043F\u0448\u0435\u0447\u043A\u0430\\upshka\\RandomGenerator\\RandomGenerator\\NumberGenerator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RandomGenerator\\NumberGenerator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:57:54.634Z"
             }
           ]
         }

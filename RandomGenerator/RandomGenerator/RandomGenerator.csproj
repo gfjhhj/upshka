@@ -57,14 +57,27 @@
     </Compile>
     <Compile Include="NumberGenerator.Designer.cs">
       <DependentUpon>NumberGenerator.cs</DependentUpon>
+	</Compile>
+
+    <Compile Include="FormWordGenerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWordGenerator.Designer.cs">
+      <DependentUpon>FormWordGenerator.cs</DependentUpon>
+
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
     </EmbeddedResource>
+
     <EmbeddedResource Include="NumberGenerator.resx">
       <DependentUpon>NumberGenerator.cs</DependentUpon>
+	</EmbeddedResource>
+
+    <EmbeddedResource Include="FormWordGenerator.resx">
+      <DependentUpon>FormWordGenerator.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
